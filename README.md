@@ -1,0 +1,1 @@
+Apparently, an empty repo can not be pushed to remote
